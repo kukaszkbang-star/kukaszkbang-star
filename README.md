@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Silva Ramos!
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Entusiasta de Tecnologia & Desenvolvedor em Construção
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Entusiasta de Tecnologia & Desenvolvedor!
 
 Seja muito bem-vindo(a) ao meu perfil! 
 
